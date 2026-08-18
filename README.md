@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Policy | Spatial Piano | Nexlium</title>
 <style>
-  :root { color-scheme: light dark; }
+  :root { color-scheme: light; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.65;
