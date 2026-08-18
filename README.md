@@ -25,7 +25,7 @@
   a { color: #0b5cd5; }
   ul { padding-left: 22px; }
   .box { background: #f7f9fc; border-left: 3px solid #0b5cd5; padding: 12px 16px; margin: 1.4em 0; }
-  @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: light) {
     body { background: #111; color: #e8e8e8; }
     th { background: #1e1e1e; }
     th, td { border-color: #333; }
